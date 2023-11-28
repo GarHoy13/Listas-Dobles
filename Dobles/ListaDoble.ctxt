@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ListaDoble
+comment1.params=dato
+comment1.target=boolean\ insertaPrimerNodo(java.lang.String)
+comment10.params=valorNodo1\ valorNodo2
+comment10.target=void\ intercambiarNodos(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=nombre
+comment4.target=boolean\ insertaAntesPrimerNodo(java.lang.String)
+comment5.params=nombre
+comment5.target=void\ insertaAlFinal(java.lang.String)
+comment6.params=nombre\ buscado
+comment6.target=boolean\ insertaEntreNodos(java.lang.String,\ java.lang.String)
+comment7.params=valor
+comment7.target=void\ borrarNodoPorValor(java.lang.String)
+comment8.params=valor
+comment8.target=Node\ buscarNodoPorValor(java.lang.String)
+comment9.params=valorBuscado\ nuevoValor
+comment9.target=void\ insertarDespuesDeNodo(java.lang.String,\ java.lang.String)
+numComments=11
